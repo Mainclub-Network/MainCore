@@ -1,0 +1,17 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="MainCore:jar">
+    <output-path>$USER_HOME$/Desktop/server-network/LifeSteal/plugins</output-path>
+    <root id="archive" name="MainCore-v1.0.jar">
+      <element id="module-output" name="Core" />
+      <element id="module-output" name="v1_8" />
+      <element id="module-output" name="VersionAdapter" />
+      <element id="module-output" name="v1_21" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/v1_8/libs/spigot-1.8.8-R0.1-SNAPSHOT-latest.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/commons-lang/commons-lang/2.6/commons-lang-2.6.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/d2mbo/world/v1_8/1.0/v1_8-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/d2mbo/world/v1_21/1.0/v1_21-1.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/Core/libs/Teams.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/d2mbo/world/VersionAdapter/1.0/VersionAdapter-1.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

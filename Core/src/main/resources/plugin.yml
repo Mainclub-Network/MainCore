@@ -1,0 +1,125 @@
+name: MainCore
+version: '${project.version}'
+author: 2MBO
+main: mainclub.network.core.Core
+api-version: '1.19'
+softdepend:
+  - WorldLoader
+  - WorldEdit
+  - Teams
+depend:
+  - DoAPI
+  - PlaceholderAPI
+commands:
+  maincore:
+    aliases: [core]
+  stats:
+  home:
+  sethome:
+  delhome:
+  kit:
+    aliases:
+      - armemento
+      - equipamiento
+      - kits
+  setwarp:
+  warp:
+    aliases:
+      - lugares
+      - zonas
+      - areas
+      - sitios
+      - teleports
+      - teletransportes
+  setspawn:
+    aliases:
+      - createspawn
+      - spawnset
+      - spawncreate
+  spawn:
+    aliases:
+      - inicio
+      - main
+      - comienzo
+  repair:
+    aliases:
+      - reparar
+      - fix
+  itemlore:
+    aliases:
+      - setdesc
+      - setdescription
+      - setlore
+      - setitemlore
+      - setloreitem
+  back:
+    aliases:
+      - atras
+      - volver
+  nick:
+    aliases: [changenick, cambiarnick, usernick]
+  realnick:
+    aliases: [userrealnick]
+  whitelist:
+    aliases: [whitel, wl, wlist]
+  itemname:
+    aliases: [itemrename, renameitem, nameitem, ritem, rename]
+  enchant:
+    aliases: [encantar]
+  claim:
+  world:
+  craft:
+    aliases:
+      - workbench
+  feed:
+    aliases: [apetito]
+  heal:
+    aliases: [curar]
+  enderchest:
+    aliases:
+      - ec
+      - cofreender
+      - endercofre
+  fly:
+    aliases:
+      - volar
+      - vuelo
+  gamemode:
+    aliases:
+      - gm
+  gmc:
+  gms:
+  gma:
+  gmspec:
+  tpa:
+    aliases:
+      - teleport
+      - teletransportar
+  tphere:
+    aliases:
+      - tpahere
+      - teleporthere
+  tpaccept:
+    aliases:
+      - tpaceptar
+      - teleportaccept
+      - teleportaceptar
+  tptoggle:
+    aliases:
+      - tpalternar
+      - teleporttoggle
+  tpignore:
+    aliases:
+      - tpignorar
+  mutechat:
+    aliases: [chatmute]
+  clearchat:
+    aliases: [cc, chatclear]
+  modmode:
+    aliases: [staff, mod, staffmode]
+  vanish:
+    aliases: [v]
+  god:
+    aliases: [dios]
+  freeze:
+    aliases: [ss, frozen]

@@ -1,0 +1,26 @@
+SERVER_NAME: 'Survival'
+CHAT_FORMAT: '<vault_group_prefix><player><vault_group_suffix>: <message>'
+
+TABULATOR:
+  HEADER:
+    - '&b&lMainCore Plugin'
+    - '&e&lSurvival Server'
+    - ''
+  FOOTER:
+    - ''
+    - '&9mainclub.net/discord'
+    - '&bmainclub.net/store'
+    - '&7play.mainclub.net'
+
+SERVER_RESTART:
+  ENABLE: false
+  TIME-ZONE: ''
+
+ANNOUNCEMENTS:
+  - ''
+
+WHITELIST:
+  ENABLE: true
+  PLAYERS:
+    - 2MBO
+  KICK_MESSAGE: '&c&lWhitelisted&c: Purchase a &e&lVIP RANK&c for &a&ljoin-access&c.'

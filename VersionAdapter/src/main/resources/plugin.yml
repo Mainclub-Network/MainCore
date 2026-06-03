@@ -1,0 +1,5 @@
+name: VersionAdapter
+version: '${project.version}'
+main: mainclub.network.version.VersionAdapter
+api-version: '1.21'
+load: STARTUP

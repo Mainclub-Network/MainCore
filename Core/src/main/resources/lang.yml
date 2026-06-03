@@ -1,0 +1,9 @@
+FIRST-JOIN:
+  - '&eWelcome <vault_group_prefix><player>&e, you are the &a#<number> to joined!'
+JOIN:
+  - '<vault_group_color><player> joined. &7&o(X: <coord_x>, Z: <coord_z>)'
+QUIT:
+  - '<vault_group_color><player> left.'
+YOURSELF: "Yo"
+MESSAGES_FORMAT: "&7(<from> &b-> <to>&7) &f<message>"
+NO_PERMISSIONS: "Comando denegado."
