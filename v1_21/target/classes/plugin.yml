@@ -1,5 +1,0 @@
-name: v1_21
-version: '2.0'
-main: mainclub.network.version.v1_21
-api-version: '1.21'
-load: STARTUP
