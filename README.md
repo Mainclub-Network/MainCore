@@ -1,3 +1,3 @@
 ## 📥 Plugin download
 
-[MainCore.jar](../../releases/latest)
+[MainCore relases](../../releases/latest)
