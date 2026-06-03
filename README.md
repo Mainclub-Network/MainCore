@@ -1,3 +1,3 @@
 ## 📥 Download
 
-[Latest Release](../../releases/latest)
+[MainCore.jar](../../releases/latest)
